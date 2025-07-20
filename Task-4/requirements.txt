@@ -1,0 +1,7 @@
+streamlit
+faiss-cpu
+beautifulsoup4
+sentence-transformers
+google-generativeai
+numpy
+requests
