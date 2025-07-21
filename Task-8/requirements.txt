@@ -1,0 +1,6 @@
+streamlit==1.39.0
+langdetect==1.0.9
+deep-translator==1.11.4
+transformers==4.44.2
+torch==2.4.1
+nltk==3.9.1
